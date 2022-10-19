@@ -1,0 +1,27 @@
+USA | New York | Statue of liberty
+USA | Los Angeles | Hollywood
+USA | Chicago | Navy Pier
+Israel | Jerusalem | Church of the Holy Sepulchre
+Italy | Rome | Colosseum
+Italy | Napoli | Castel Nuovo
+Italy | Venezia | Ponte di Rialto
+France | Paris | Tour Eiffel
+France | Marseille | Fort de Ratonneau
+Spain | Madrid | Templo de Debod
+Spain | Madrid | Museo Nacional del Prado
+Spain | Barcelona | Casa Batlló
+Portugal | Lisbon | Padrão dos Descobrimentos
+Portugal | Lisbon | Torre de Belém
+Portugal | Porto | Palácio da Bolsa
+England | London | Kensington Palace
+England | London | Kensington Gardens
+England | Manchester | Staircase House
+Germany | Berlin | Schloss Charlottenburg
+Germany | Hamburg | Planten un Blomen
+Italy | Rome | Castel Sant'Angelo
+Sweden | Stockholm | Kungliga slottet
+Sweden | Goteborg | AtmosFear
+Turkey | Istanbul | Dolmabahçe Sarayı
+Greece | Athens | Παρθενώνας
+Greece | Athens | Ναός του Ολυμπίου Διός
+Japan | Tokyo | 浅草寺
